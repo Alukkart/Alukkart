@@ -1,5 +1,4 @@
 # There's a monster inside all of us.
-# 🫸 🔴 🔵 🫷 🤌 🫴 🟣
 
 ![Code Wars](https://www.codewars.com/users/Alukkart/badges/large)
 
