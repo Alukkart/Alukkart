@@ -4,7 +4,7 @@
   <h3 align="center">Languages & technologies</h1>
   <div>
     <div>
-      <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC">
+      <img src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=00ADD8">
       <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB">
       <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
       <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=1572B6">
