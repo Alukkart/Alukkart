@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>There's a monster inside all of us.</h1>
+  <h1>The remains of your past are rotting in you</h1>
 
   <h3 align="center">Languages & technologies</h1>
   <div>
