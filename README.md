@@ -23,7 +23,5 @@
   <div>
     <img src="https://www.codewars.com/users/Alukkart/badges/large"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Alukkart&show_icons=true&theme=tokyonight&hide_border=true"/>
   <div>
-  <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alukkart&theme=tokyonight&hide_border=true&layout=compact" width="50%"/> -->
 </div>
